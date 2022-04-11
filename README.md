@@ -7,7 +7,7 @@ I have used as many libraries as necessary to have the application perform its t
 It didnt seem that UI, design or interaction was a part of the specification so has been kept plain and simple.
 
 
-Given more time there could be support added for;
+Given more time there could be support added for; 
 Orientation changes with some state management 
 Better UI support for varying screen sizes
 Testing
